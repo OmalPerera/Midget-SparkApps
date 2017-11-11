@@ -1,4 +1,5 @@
 .DS_Store
-.class
-.xml
-.jar
+*.class
+*.log
+*.xsl
+*.jar
